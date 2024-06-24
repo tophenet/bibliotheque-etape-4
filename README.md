@@ -1,1 +1,1 @@
-# bibliotheque-etape-4
+Projet pédagogique - Gestion d'une bibliothèque
